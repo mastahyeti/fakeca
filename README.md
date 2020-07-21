@@ -1,6 +1,6 @@
 # fakeca [![GoDoc](https://godoc.org/github.com/mastahyeti/fakeca?status.svg)](http://godoc.org/github.com/mastahyeti/fakeca) [![Report card](https://goreportcard.com/badge/github.com/mastahyeti/fakeca)](https://goreportcard.com/report/github.com/mastahyeti/fakeca) [![Travis CI](https://travis-ci.org/mastahyeti/fakeca.svg?branch=master)](https://travis-ci.org/mastahyeti/fakeca)
 
-This is a package for creating fake certificate authorities for test fixtures.
+This is a package for creating fake certificate authorities for test fixtures. Modified by moreaui.
 
 ## Example
 
